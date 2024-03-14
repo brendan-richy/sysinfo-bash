@@ -6,6 +6,15 @@ This project is to help increase my understanding of using bash scripts in the c
 
 [Software Demo Video](http://youtube.link.goes.here)
 
+# Usage
+
+After downloading navigate to the directory containing ['install.sh'](https://github.com/brendan-richy/sysinfo-bash/blob/main/install.sh), run:
+
+'''bash
+sudo ./install.sh
+'''
+
+
 # Development Environment
 
 This project was written in Visual Studio Code, in Ubuntu 22.04.4. Tested in shell.
