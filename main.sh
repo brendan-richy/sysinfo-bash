@@ -14,19 +14,19 @@ while true; do
 
     case $choice in
         1)
-            ./functions/sysinfo_cpu.sh
+            /bin/sysinfo-bash/functions/sysinfo_cpu.sh
             ;;
         2)
-            ./functions/sysinfo_memory.sh
+            /bin/sysinfo-bash/functions/sysinfo_memory.sh
             ;;
         3)
-            ./functions/sysinfo_battery.sh
+            /bin/sysinfo-bash/functions/sysinfo_battery.sh
             ;;
         4)
-            ./functions/sysinfo_screen.sh
+            /bin/sysinfo-bash/functions/sysinfo_screen.sh
             ;;
         5)
-            ./functions/sysinfo_devices.sh
+            /bin/sysinfo-bash/functions/sysinfo_devices.sh
             ;;
     esac
 
