@@ -10,9 +10,9 @@ This project is to help increase my understanding of using bash scripts in the c
 
 After downloading navigate to the directory containing ['install.sh'](https://github.com/brendan-richy/sysinfo-bash/blob/main/install.sh), run:
 
-'''
+```
 sudo ./install.sh
-'''
+```
 
 
 # Development Environment
