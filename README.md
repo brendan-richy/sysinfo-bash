@@ -8,12 +8,19 @@ This project is to help increase my understanding of using bash scripts in the c
 
 # Usage
 
-After downloading navigate to the directory containing ['install.sh'](https://github.com/brendan-richy/sysinfo-bash/blob/main/install.sh), run:
+After downloading navigate to the directory containing [install.sh](https://github.com/brendan-richy/sysinfo-bash/blob/main/install.sh), run:
 
-```
+```bash
 sudo ./install.sh
 ```
 
+This will add all files to /bin/sysinfo-bash and alias 'sysinfo' to run [main.sh](https://github.com/brendan-richy/sysinfo-bash/blob/main/main.sh)
+
+To run sysinfo, enter
+
+```bash
+sysinfo
+```
 
 # Development Environment
 
